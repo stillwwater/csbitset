@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PackageId>Bitset</PackageId>
+    <Version>1.0</Version>
+    <Authors>stillwwater</Authors>
+  </PropertyGroup>
+
+</Project>
